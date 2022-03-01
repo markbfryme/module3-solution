@@ -1,0 +1,23 @@
+.navbar-brand h1 {
+	color:  black;
+}
+.navbar-header button.navbar-toggle .icon-bar span {
+	width: 100%;
+	margin: 2px;
+	border:  2px solid black;
+}
+
+.navbar {
+	background-color: #a9c25d;
+	height:  80px;
+}
+
+.col-md-12, .col-sm-12, .col-xs-12 {
+	margin:  5%;
+	background-color: #f5eec2;
+}
+
+.col-lg-12 {
+	margin: 5%;
+}
+
