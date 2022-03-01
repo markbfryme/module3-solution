@@ -12,12 +12,21 @@
 	height:  80px;
 }
 
-.col-md-12, .col-sm-12, .col-xs-12 {
-	margin:  5%;
-	background-color: #f5eec2;
+.navbar-brand {
+	padding-top:  25px;
 }
 
-.col-lg-12 {
-	margin: 5%;
+#menu-tiles {
+	position:  absolute;
+	background-color:  #f5eec2;
+	margin-right: 3%;
+	margin-left: 3%;
 }
 
+#nav-list {
+	margin: 10px;
+}
+
+#nav-list a {
+	text-align: center;
+}
