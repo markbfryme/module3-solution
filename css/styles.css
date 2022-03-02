@@ -1,3 +1,14 @@
 #nav-header {
 	height: 80px;
 }
+
+.navbar-brand h1 {
+	margin-top: 6px;
+	left: 0;
+	color:  black;
+}
+
+#menu-dropdown {
+	margin-top:  38px;
+	margin-right: 6px;
+}
