@@ -1,0 +1,32 @@
+.navbar-brand h1 {
+	color:  black;
+}
+.navbar-header button.navbar-toggle .icon-bar span {
+	width: 100%;
+	margin: 2px;
+	border:  2px solid black;
+}
+
+.navbar {
+	background-color: #a9c25d;
+	height:  80px;
+}
+
+.navbar-brand {
+	padding-top:  25px;
+}
+
+#menu-tiles {
+	position:  absolute;
+	background-color:  #f5eec2;
+	margin-right: 3%;
+	margin-left: 3%;
+}
+
+#nav-list {
+	margin: 10px;
+}
+
+#nav-list a {
+	text-align: center;
+}
