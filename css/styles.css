@@ -1,18 +1,68 @@
+#top div{
+	background-color: #45608c;
+}
 #nav-header {
 	height: 80px;
+	background-color: #45608c;
+	font-family: 'Roboto', sans-serif;
 }
 
 .navbar-brand h1 {
 	margin-top: 6px;
 	left: 0;
-	color:  black;
+	color:  white;
+}
+
+#menu-dropdown span {
+	background-color:  white;
+	border-color: white;
 }
 
 #menu-dropdown {
 	margin-top:  38px;
 	margin-right: 6px;
+	border-color:  white;
+}
+
+body {
+	font-family: 'Roboto', sans-serif;
+}
+
+#bs-example-navbar-collapse-1 {
+	background-color:  white;
+}
+
+#bs-example-navbar-collapse-1 hr {
+	width:  90%;
+	border-color:  white;
+}
+
+#bs-example-navbar-collapse-1 li a {
+	color:  white;
+	font-size:  1.2em;
+}
+
+#main-content {
+	font-family: 'Roboto', sans-serif;
 }
 
 #menu-tiles > div {
 	margin-bottom: 20px;
+}
+
+#menu-tiles > div > div {
+	margin-right: 20px;
+	margin-left: 20px;
+	padding: 0px 15px 5px 15px;
+	background-color: #e3eaa7;
+	border-radius: 8px;
+}
+
+#menu-tiles > div > div h3 {
+	padding-top: 8px;
+}
+
+#menu-tiles > div > div p {
+	padding-left: 5px;
+	padding-right:  5px;
 }
